@@ -23,6 +23,7 @@ var xmlhttp;
 // Timer to check the translation progress
 var translationProgressTimer = null;
 
+
 // Geometry nodes
 var geometryItems;
 var geometryFilter3d = { 'type': 'geometry', 'role': '3d' };
